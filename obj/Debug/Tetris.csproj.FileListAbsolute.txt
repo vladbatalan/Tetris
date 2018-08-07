@@ -1,0 +1,23 @@
+D:\Proiecte\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Proiecte\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Proiecte\Tetris\Tetris\obj\Debug\ResolveAssemblyReference.cache
+D:\Proiecte\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+D:\Proiecte\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Proiecte\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Proiecte\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Proiecte\Tetris\Tetris\obj\Debug\Tetris.pdb
+H:\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.exe
+H:\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.pdb
+H:\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+H:\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\ResolveAssemblyReference.cache
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\GenerateResource.read.1.tlog
+D:\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\GenerateResource.write.1.tlog
+D:\salvate\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\salvate\Vlad stick\Microsoft Visual c#\Tetris\Tetris\obj\Debug\Tetris.pdb
